@@ -15,6 +15,15 @@ Dimension Reduction with PCA
 
 You can easily run this code on google colab by just clicking this badge [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AsadiAhmad/PCA/blob/main/PCA.ipynb)
 
+## Mathematics
+
+<div display=flex align=center>
+  <img src="/Image/1.png" width="600px"/>
+  <img src="/Image/2.png" width="600px"/>
+  <img src="/Image/3.png" width="600px"/>
+  <img src="/Image/4.png" width="600px"/>
+</div>
+
 ## License
 
 This project is licensed under the MIT License.
